@@ -1,34 +1,3 @@
-//
-//  ContentView.swift
-//  States
-//
-//  Created by Henry Heese on 11/3/22.
-//
-
-import SwiftUI
-
-
-
-struct ContentView: View {
-    var states: [USState] = USStates.list
-    init() {
-        
-    }
-    var body: some View {
-        NavigationView {
-            List(states) { state in
-                NavigationLink(destination: StateDetailView(state: state)) {
-                    StateListCellView(state: state)
-                }
-            }.navigationTitle("States")
-        }
-    }
-}
-
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b5a9ed2bb871c972dc06e5fe506701156f3020a47c000f6f788d1716d9540c6
+size 606

@@ -1,21 +1,3 @@
-import UIKit
-
-var greeting = "Hello, playground"
-print(greeting)
-
-for index in 1..<5 {
-    print(index)
-}
-
-func greet(name: String) -> String {
-    let greeting = "Hello, " + name + "!"
-    return greeting
-}
-
-print(greet(name: "Mr. BusinessMan"))
-
-var age = 21
-print("age = \(age)")
-
-var name:String = "Sally"
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0053ce4b21fb24cb2eb9e55d09bfd2dd3429a3f7d624efffd36f05321027fd6
+size 311

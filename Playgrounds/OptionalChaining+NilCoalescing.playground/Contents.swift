@@ -1,19 +1,3 @@
-import UIKit
-
-let defaultL = 0.5
-var setL: Double?
-var audL = setL ?? defaultL
-// returns optional if it has a value, otherwise default
-
-class Trip {
-    var title: String
-    init(title: String) {
-        self.title = title
-    }
-    init() {
-        self.title = "Empty"
-    }
-}
-var trip: Trip?
-trip?.title = "Vaca"
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:701eb5e88571c18eb4b1a6700824b6912e11ef2d639c585deb9bd21380e90b74
+size 319

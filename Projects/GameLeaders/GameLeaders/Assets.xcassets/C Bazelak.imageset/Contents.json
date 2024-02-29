@@ -1,21 +1,3 @@
-{
-  "images" : [
-    {
-      "filename" : "C Bazelak.png",
-      "idiom" : "universal",
-      "scale" : "1x"
-    },
-    {
-      "idiom" : "universal",
-      "scale" : "2x"
-    },
-    {
-      "idiom" : "universal",
-      "scale" : "3x"
-    }
-  ],
-  "info" : {
-    "author" : "xcode",
-    "version" : 1
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c3378d067b0933e32e6044fc0249ed6bb3762b51fa5145bbd21eca74282e429
+size 307

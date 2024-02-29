@@ -1,13 +1,3 @@
-import UIKit
-
-extension Double {
-    func add(_ str: String) -> Double? {
-        if let x = Double(str) {
-            return x + self
-        }
-        return nil
-    }
-}
-
-let value1: Double? = 3.5.add("1.2") // value1 will equal 4.7
-let value3: Double? = 1.5.add("words") // value will be nil
+version https://git-lfs.github.com/spec/v1
+oid sha256:eac55ea3dd81227c70d038fa1c422e502a2f6c2ee208c9838052b8c051316fa1
+size 295

@@ -1,15 +1,3 @@
-import UIKit
-
-extension String {
-    func add(_ num: Int) -> Int? {
-        if let x = Int(self) {
-            return x + num
-        }
-        return nil
-    }
-}
-
-
-let value1: Int? = "5".add(3) // value1 will equal 8
-let value2: Int? = "-2".add(1) // value2 will equal -1
-let value3: Int? = "words".add(4) // value3 will be nil
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac43d952c0286c84910a65c73a6e68e064cfc5c2adc7d21fed55c0318d29a92a
+size 329

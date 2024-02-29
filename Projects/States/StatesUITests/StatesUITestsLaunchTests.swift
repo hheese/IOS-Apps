@@ -1,32 +1,3 @@
-//
-//  StatesUITestsLaunchTests.swift
-//  StatesUITests
-//
-//  Created by Henry Heese on 11/3/22.
-//
-
-import XCTest
-
-final class StatesUITestsLaunchTests: XCTestCase {
-
-    override class var runsForEachTargetApplicationUIConfiguration: Bool {
-        true
-    }
-
-    override func setUpWithError() throws {
-        continueAfterFailure = false
-    }
-
-    func testLaunch() throws {
-        let app = XCUIApplication()
-        app.launch()
-
-        // Insert steps here to perform after app launch but before taking a screenshot,
-        // such as logging into a test account or navigating somewhere in the app
-
-        let attachment = XCTAttachment(screenshot: app.screenshot())
-        attachment.name = "Launch Screen"
-        attachment.lifetime = .keepAlways
-        add(attachment)
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5af892c1052c03b6ab024455d4932d68712da88b11e5a5d000f11979624a464
+size 798

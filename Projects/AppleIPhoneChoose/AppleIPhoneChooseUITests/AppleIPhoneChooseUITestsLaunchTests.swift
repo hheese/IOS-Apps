@@ -1,32 +1,3 @@
-//
-//  AppleIPhoneChooseUITestsLaunchTests.swift
-//  AppleIPhoneChooseUITests
-//
-//  Created by Henry Heese on 10/10/22.
-//
-
-import XCTest
-
-final class AppleIPhoneChooseUITestsLaunchTests: XCTestCase {
-
-    override class var runsForEachTargetApplicationUIConfiguration: Bool {
-        true
-    }
-
-    override func setUpWithError() throws {
-        continueAfterFailure = false
-    }
-
-    func testLaunch() throws {
-        let app = XCUIApplication()
-        app.launch()
-
-        // Insert steps here to perform after app launch but before taking a screenshot,
-        // such as logging into a test account or navigating somewhere in the app
-
-        let attachment = XCTAttachment(screenshot: app.screenshot())
-        attachment.name = "Launch Screen"
-        attachment.lifetime = .keepAlways
-        add(attachment)
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2196a3ee43183654fc564203f9ab01f33358a9d00ced22747996ee4c0538361
+size 832

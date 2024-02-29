@@ -1,32 +1,3 @@
-//
-//  GameLeadersUITestsLaunchTests.swift
-//  GameLeadersUITests
-//
-//  Created by Henry Heese on 10/6/22.
-//
-
-import XCTest
-
-final class GameLeadersUITestsLaunchTests: XCTestCase {
-
-    override class var runsForEachTargetApplicationUIConfiguration: Bool {
-        true
-    }
-
-    override func setUpWithError() throws {
-        continueAfterFailure = false
-    }
-
-    func testLaunch() throws {
-        let app = XCUIApplication()
-        app.launch()
-
-        // Insert steps here to perform after app launch but before taking a screenshot,
-        // such as logging into a test account or navigating somewhere in the app
-
-        let attachment = XCTAttachment(screenshot: app.screenshot())
-        attachment.name = "Launch Screen"
-        attachment.lifetime = .keepAlways
-        add(attachment)
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c30f2e1deea5c7810ca83e2baa113628c29c733983c9d5bbaa15799f37e961af
+size 813

@@ -1,16 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>SchemeUserState</key>
-	<dict>
-		<key>FirstPlayground (Playground).xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
-	</dict>
-</dict>
-</plist>
+version https://git-lfs.github.com/spec/v1
+oid sha256:77a0babbefc785d243d5e19b39269ca81239df5ce5de2850e99fd6842dfc9e8e
+size 385

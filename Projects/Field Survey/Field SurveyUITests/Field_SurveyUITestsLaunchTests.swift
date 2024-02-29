@@ -1,32 +1,3 @@
-//
-//  Field_SurveyUITestsLaunchTests.swift
-//  Field SurveyUITests
-//
-//  Created by Henry Heese on 12/6/22.
-//
-
-import XCTest
-
-final class Field_SurveyUITestsLaunchTests: XCTestCase {
-
-    override class var runsForEachTargetApplicationUIConfiguration: Bool {
-        true
-    }
-
-    override func setUpWithError() throws {
-        continueAfterFailure = false
-    }
-
-    func testLaunch() throws {
-        let app = XCUIApplication()
-        app.launch()
-
-        // Insert steps here to perform after app launch but before taking a screenshot,
-        // such as logging into a test account or navigating somewhere in the app
-
-        let attachment = XCTAttachment(screenshot: app.screenshot())
-        attachment.name = "Launch Screen"
-        attachment.lifetime = .keepAlways
-        add(attachment)
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebf5cdee7417c13911e97b0e27343cec0f328910c642783ae6338faa5c0b1211
+size 816

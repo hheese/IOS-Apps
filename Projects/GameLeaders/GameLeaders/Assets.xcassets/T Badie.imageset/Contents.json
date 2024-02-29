@@ -1,21 +1,3 @@
-{
-  "images" : [
-    {
-      "filename" : "T Badie.png",
-      "idiom" : "universal",
-      "scale" : "1x"
-    },
-    {
-      "idiom" : "universal",
-      "scale" : "2x"
-    },
-    {
-      "idiom" : "universal",
-      "scale" : "3x"
-    }
-  ],
-  "info" : {
-    "author" : "xcode",
-    "version" : 1
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:26809cac0e56f67569751c9ef09aeaa1b59e3fbb1f2cf34f79818ff52854d20b
+size 305

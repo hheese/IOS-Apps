@@ -1,17 +1,3 @@
-//
-//  Field_SurveyApp.swift
-//  Field Survey
-//
-//  Created by Henry Heese on 12/6/22.
-//
-
-import SwiftUI
-
-@main
-struct Field_SurveyApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fa1315abcec624a20b09a65a817fbf651f9d54d22cbba25bbfcc78cd7fe3844
+size 237

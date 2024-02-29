@@ -1,14 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>SchemeUserState</key>
-	<dict>
-		<key>SwiftUIExample.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
-	</dict>
-</dict>
-</plist>
+version https://git-lfs.github.com/spec/v1
+oid sha256:a576f2fe5741a2f9008ca6cb1e935efa6aa160aa9e8ccfc0a7486b73cbe1f418
+size 349

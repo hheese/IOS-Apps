@@ -1,21 +1,3 @@
-//
-//  Sports_Event.swift
-//  SportsEvents
-//
-//  Created by Henry Heese on 11/8/22.
-//
-
-import Foundation
-
-struct Sports_Event:Codable, Identifiable {
-    var id = UUID()
-    var sport: String
-    var matchup: String
-    var date: Date
-    
-    enum CodingKeys:String, CodingKey {
-        case sport
-        case matchup
-        case date
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:31760c13c9be4336f7b0bd7a127e86ac44c0038bfbc37f3837d1cbdcb14062d6
+size 348

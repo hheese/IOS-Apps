@@ -1,17 +1,3 @@
-//
-//  StatesApp.swift
-//  States
-//
-//  Created by Henry Heese on 11/3/22.
-//
-
-import SwiftUI
-
-@main
-struct StatesApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a5cb1c83130af101ee1b9e064011d24caba58fcc2e5304f08cdd386b8d3608e
+size 219

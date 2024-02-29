@@ -1,14 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Timeline
-   version = "3.0">
-   <TimelineItems>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/henryheese/Desktop/IT4405/Playgrounds/DatesChallenge.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=1310&amp;EndingColumnNumber=16&amp;EndingLineNumber=35&amp;StartingColumnNumber=5&amp;StartingLineNumber=35&amp;Timestamp=688598316.031585"
-         selectedRepresentationIndex = "0">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/henryheese/Desktop/IT4405/Playgrounds/DatesChallenge.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=1192&amp;EndingColumnNumber=16&amp;EndingLineNumber=30&amp;StartingColumnNumber=5&amp;StartingLineNumber=30&amp;Timestamp=688598316.032578"
-         selectedRepresentationIndex = "0">
-      </LoggerValueHistoryTimelineItem>
-   </TimelineItems>
-</Timeline>
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2b46e6b5e8089acddf9537d529adf9f7bbdd4b7b06e2e9c4f6b8158ffa1ca27
+size 944

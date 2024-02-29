@@ -1,21 +1,3 @@
-{
-  "images" : [
-    {
-      "filename" : "V Jones Jr.png",
-      "idiom" : "universal",
-      "scale" : "1x"
-    },
-    {
-      "idiom" : "universal",
-      "scale" : "2x"
-    },
-    {
-      "idiom" : "universal",
-      "scale" : "3x"
-    }
-  ],
-  "info" : {
-    "author" : "xcode",
-    "version" : 1
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:147c3768084b7dcd95b711e0c9cc1f8fbd817ea62376229a0d62a20b9290b072
+size 308
